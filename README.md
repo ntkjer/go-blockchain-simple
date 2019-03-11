@@ -8,7 +8,7 @@ To run the program, invoke: ```go run main.go```.
 
 ### Ze Blockchain
 
-To view the blockchain API and visualize our hashing, navigate to your localhost:8080(http://localhost:8080/) and use Postman or curl with a POST request.
+To view the blockchain API and visualize our hashing, navigate to your [localhost:8080](http://localhost:8080/) and use Postman or curl with a POST request.
 
 ### Curling for POST example:
 ``` curl --header "Content-Type: application/json" --request POST --data '{"BPM":120}' http://localhost:8080 ```
