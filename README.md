@@ -1,5 +1,5 @@
 ### Simple blockchain API written in Golang
-Written after reading code samples on this(https://medium.com/@mycoralhealth/part-2-networking-code-your-own-blockchain-in-less-than-200-lines-of-go-17fe1dad46e1) article. 
+Written after reading code samples on [this](https://medium.com/@mycoralhealth/part-2-networking-code-your-own-blockchain-in-less-than-200-lines-of-go-17fe1dad46e1) article. 
 
 ##Usage
 Ensure Golang is installed on your system and the ```$GOPATH``` and ```$GOROOT``` are in the right directories/have the correct links. 
